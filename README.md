@@ -23,7 +23,6 @@ Clone this repo into new project folder (e.g., `my-proj`).
 git clone https://github.com/angular/quickstart  my-proj
 cd my-proj
 ```
-
 ### Delete _non-essential_ files (optional)
 
 You can quickly delete the _non-essential_ files that concern testing and QuickStart repository maintenance
@@ -77,8 +76,6 @@ We've captured many of the most useful commands in npm scripts defined in the `p
 [Christopher Martin](https://github.com/cgmartin)
 with excellent support for Angular apps that use routing.
 
-Here are the test related scripts:
-* `npm test` - compiles, runs and watches the karma unit tests
-* `npm run e2e` - compiles and run protractor e2e tests, written in Typescript (*e2e-spec.ts)
+
 
 
